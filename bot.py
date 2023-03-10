@@ -239,8 +239,11 @@ def generate_progress_bar(song):
 
 @bot.command()
 async def now_playing(ctx):
+    global current_song
     if not player:
         current_song = None
+        return await ctx.send("There is no music playing right now.")
+    if not current_song:
         return await ctx.send("There is no music playing right now.")
     title = current_song["title"]
     embed = discord.Embed(title=f"Now Playing: {title}",
