@@ -1,4 +1,5 @@
-token = 00000000000000000000000NzQxODU1NTQxMTQzMjczNTky.GakAYA.kadi-olT3a-DXJph81k3Hk6YTR74DAhnZffM2w
+// NzQ
+token = xODU1NTQxMTQzMjczNTky.GwvoFM.FD2BjHE8-JcKS-52-rwvRLYOwuZezZ2x_BzKnI
 owner = 737661381582782574
 prefix = "$"
 
