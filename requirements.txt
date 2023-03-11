@@ -1,0 +1,4 @@
+discord
+discord.py
+pyNaCl
+yt_dlp
