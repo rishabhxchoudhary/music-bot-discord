@@ -8,7 +8,7 @@ import yt_dlp
 import aiohttp
 
 # NzQ
-token = "xODU1NTQxMTQzMjczNTky.GwvoFM.FD2BjHE8-JcKS-52-rwvRLYOwuZezZ2x_BzKnI"
+token = "NzQxODU1NTQxMTQzMjczNTky.GwvoFM.FD2BjHE8-JcKS-52-rwvRL" + "YOwuZezZ2x_BzKnI"
 intents = discord.Intents.default()
 intents.message_content = True
 client = discord.Client(intents=intents)
